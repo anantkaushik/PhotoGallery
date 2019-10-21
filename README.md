@@ -16,4 +16,4 @@ This project basically manages the information of media. It also provides search
 ### Steps to run offline :-
 > 1. Install Python 3.6
 > 2. Install flask (in cmd -> 'pip install flask')
-> 3. RUN run.py or open it in IDLE and then run.
+> 3. RUN settings.py or open it in IDLE and then run.
