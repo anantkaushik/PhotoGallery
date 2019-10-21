@@ -12,3 +12,8 @@ This watermark defines that the copyright stays with the photographer and our si
 Images cannot be downloaded without watermark until the user logins. 
 Thus, granting user to use the image. 
 This project basically manages the information of media. It also provides searching facility based on various factor to a user.
+
+### Steps to run offline :-
+> 1. Install Python 3.6
+> 2. Install flask (in cmd -> 'pip install flask')
+> 3. RUN run.py or open it in IDLE and then run.
